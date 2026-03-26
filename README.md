@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Nana
 
 Backend / Full-Stack Software Engineer (**C# · TypeScript**).  
-I build practical services and internal tools: clean APIs, reliable data flows, and dashboards teams actually use.
+I build practical services and internal tools: APIs, data flows, and dashboards.
 
 ### What I’ve done
 - Built backend features + integrations and kept them stable in production
